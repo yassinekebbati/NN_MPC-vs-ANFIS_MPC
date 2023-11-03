@@ -25,7 +25,7 @@ This implementation requires MATLAB 2018b or a more recent version.
 
 The implementation of Linear MPC with Laguerre functions and the PSO optimization part can be found in this repository : (https://github.com/yassinekebbati/Optimized_adaptive_MPC) 
 
-# If you find this work useful or use it in your work, please cite the main paper:
+# If you find this work useful or use it in your work, don't forget to cite the main paper:
 
 Kebbati, Y., Ait-Oufroukh, N., Vigneron, V., & Ichalal, D. (2021, December). Neural Network and ANFIS-based auto-adaptive MPC for path tracking in autonomous vehicles. In 2021 IEEE International Conference on Networking, Sensing and Control (ICNSC) (Vol. 1, pp. 1-6). IEEE.
 
@@ -38,4 +38,4 @@ Kebbati, Y., Ait-Oufroukh, N., Vigneron, V., & Ichalal, D. (2021, December). Neu
   year={2021},
   organization={IEEE}
 }
-
+ 
