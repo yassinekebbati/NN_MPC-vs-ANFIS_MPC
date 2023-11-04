@@ -10,10 +10,10 @@ The paper is freely accessible at this link: (https://hal.science/hal-03467943/f
 
 -  # NN_MPC:
    ## This part is an implementation of discrete MPC with neural network-based adaptive parameters (Np, Nc, Q, R, etc.)
-  1. You can run the script 'Launch_NNMPC' to start.
-  2. The script loads the parameters for the vehicle model and MPC controller (Params.mat).
-  3. Simulation starts with the chosen parameters. You can try different trajectories and change the MPC parameters to compare its performance.
-  4. Note that it is important to have all files in the main folder or added to the Matlab path.
+   1. You can run the script 'Launch_NNMPC' to start.
+   2. The script loads the parameters for the vehicle model and MPC controller (Params.mat).
+   3. Simulation starts with the chosen parameters. You can try different trajectories and change the MPC parameters to compare its performance.
+   4. Note that it is important to have all files in the main folder or added to the Matlab path.
 
 # b) ANFIS_MPC: This part is an implementation of discrete MPC with ANFIS-based adaptive parameters (Np, Nc, Q, R, etc.)
 
