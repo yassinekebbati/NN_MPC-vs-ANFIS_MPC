@@ -27,9 +27,10 @@ The paper is freely accessible at this link: (https://hal.science/hal-03467943/f
 ## The implementation of Linear MPC with Laguerre functions and the PSO optimization part can be found in this repository : (https://github.com/yassinekebbati/Optimized_adaptive_MPC) 
 
 ## If you find this work useful or use it in your work, don't forget to cite the main paper:
-
+#### APA:
 Kebbati, Y., Ait-Oufroukh, N., Vigneron, V., & Ichalal, D. (2021, December). Neural Network and ANFIS-based auto-adaptive MPC for path tracking in autonomous vehicles. In 2021 IEEE International Conference on Networking, Sensing and Control (ICNSC) (Vol. 1, pp. 1-6). IEEE.
 
+#### BibTeX:
 @inproceedings{kebbati2021neural,
   title={Neural Network and ANFIS based auto-adaptive MPC for path tracking in autonomous vehicles},
   author={Kebbati, Yassine and Ait-Oufroukh, Naima and Vigneron, Vincent and Ichalal, Dalil},
